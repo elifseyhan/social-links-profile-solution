@@ -6,9 +6,6 @@ module.exports = {
             fontFamily: {
                 inter: ["Inter", "sans-serif"],
             },
-            fontSize: {
-                base: "14px",
-            },
             colors: {
                 primary: "hsl(75, 94%, 57%)",
                 grey: "hsl(0, 0%, 20%)",
